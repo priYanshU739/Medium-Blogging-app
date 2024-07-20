@@ -1,1 +1,1 @@
-# Medium-blog-app
+# Medium-blogging-app
